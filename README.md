@@ -2,7 +2,13 @@
 Facebook &amp; Instagram Post Downloader (CLI Based)
 
 ## Get Started
-You have to do install PHP on your Terminal and run this script using command :
+You have to do install CURL and PHP on your Terminal 
+
+```
+$ pkg install php curl -y
+```
+
+And run this script using command :
 
 ```
 $ php fdn
